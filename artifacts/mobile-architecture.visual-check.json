@@ -1,0 +1,14 @@
+{
+  "visual_checks": [
+    {
+      "viewport": "1440x900",
+      "status": "passed",
+      "image": "mobile-architecture.visual-check.1440.png"
+    },
+    {
+      "viewport": "2048x1536",
+      "status": "passed",
+      "image": "mobile-architecture.visual-check.2048.png"
+    }
+  ]
+}

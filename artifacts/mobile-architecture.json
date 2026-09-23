@@ -1,0 +1,20 @@
+{
+  "system": {
+    "name": "Flutter Mobile App",
+    "dependencies": [
+      "Keycloak Authentication",
+      "FastAPI REST API",
+      "Leaflet / Maps Service"
+    ]
+  },
+  "api": {
+    "framework": "FastAPI",
+    "databases": ["PostgreSQL", "MongoDB"]
+  },
+  "infrastructure": {
+    "environment": ["Docker", "Docker Compose"],
+    "source_control": ["Git", "GitHub"]
+  },
+  "layout": "architecture-diagram",
+  "generated_by": "Archify"
+}

@@ -1,0 +1,10 @@
+{
+  "delivery_id": "dlv_mobile_arch_230592",
+  "timestamp": "2026-09-23T14:20:00Z",
+  "status": "success",
+  "artifacts_generated": [
+    "mobile-architecture.html",
+    "mobile-architecture.json",
+    "mobile-architecture.visual-check.json"
+  ]
+}
