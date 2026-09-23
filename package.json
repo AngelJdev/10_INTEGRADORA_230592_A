@@ -1,0 +1,21 @@
+{
+  "name": "10_integradora_230592_a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelJdev/10_INTEGRADORA_230592_A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AngelJdev/10_INTEGRADORA_230592_A/issues"
+  },
+  "homepage": "https://github.com/AngelJdev/10_INTEGRADORA_230592_A#readme"
+}
